@@ -1,9 +1,6 @@
 
 # 🛍️ Superstore Sales Dashboard
 
-![Superstore Sales Dashboard](![Screenshot (163)](https://github.com/user-attachments/assets/1db44131-3995-4101-9e31-717acb5122f4)
-
-
 ## 📊 Overview
 
 This project showcases an interactive **Superstore Sales Dashboard**, designed for visualizing and analyzing key performance indicators (KPIs) related to sales, profit, and orders. The dashboard provides a comprehensive breakdown by payment mode, region, segment, ship mode, product category, and time.
@@ -53,3 +50,6 @@ This project showcases an interactive **Superstore Sales Dashboard**, designed f
    - Second Class: 0.31M
    - First Class: 0.24M
    - Same Day: 0.10M
+
+     ![Screenshot (163)](https://github.com/user-attachments/assets/734da6f3-eb4b-4769-8a99-48e965716d63)
+
