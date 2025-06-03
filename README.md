@@ -1,7 +1,8 @@
 
 # 🛍️ Superstore Sales Dashboard
 
-![Superstore Sales Dashboard](./d00c05d6-c18b-44ee-81f6-9a41f3743df6.png)
+![Superstore Sales Dashboard](![Screenshot (163)](https://github.com/user-attachments/assets/1db44131-3995-4101-9e31-717acb5122f4)
+
 
 ## 📊 Overview
 
